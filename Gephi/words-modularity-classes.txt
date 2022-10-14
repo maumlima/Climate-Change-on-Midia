@@ -1,0 +1,4 @@
+0 - mitigation
+1 - ressources
+2 - economics
+3 - general words
